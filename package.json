@@ -12,18 +12,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vaibhavdasari2507/FSD.git"
-  },
   "author": "",
   "license": "ISC",
   "engines": {
     "node": "16.17.0"
   },
-  "bugs": {
-    "url": "https://github.com/vaibhavdasari2507/FSD/issues"
-  },
-  "homepage": "https://github.com/vaibhavdasari2507/FSD#readme",
   "description": ""
 }
