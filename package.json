@@ -19,7 +19,7 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": "4.1.1"
+    "node": "16.17.0"
   },
   "bugs": {
     "url": "https://github.com/vaibhavdasari2507/FSD/issues"
